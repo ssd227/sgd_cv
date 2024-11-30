@@ -18,7 +18,7 @@ Generative Models
 
 
 ## 简介
-留白
+空白
 
 ## 进度
 
@@ -27,14 +27,15 @@ Generative Models
   - [X] AlexNet [[code]](./python/sgd_cv/model/alexnet.py) [[apps]](./apps/Classification/alexnet.ipynb)
   - [X] VCG16 | VGG19 [[code]](./python/sgd_cv/model/vgg.py) [[apps]](./apps/Classification/vgg.ipynb)
   - [X] GoogleNet [[code]](./python/sgd_cv/model/googlenet.py) [[apps]](./apps/Classification/googlenet.ipynb)
-  - [ ] Inception_v3 [todo]
-  - [ ] ResNet
+  - [X] ResNet [[code]](./python/sgd_cv/model/resnet.py) [[apps]](./apps/Classification/resnet.ipynb)
+  - [X] ResNext [[code]](./python/sgd_cv/model/resnext.py) [[apps]](./apps/Classification/resnext.ipynb)
+  - [X] MobileNetV2 [[code]](./python/sgd_cv/model/mobilenet.py) [[apps]](./apps/Classification/mobilenet.ipynb)
 
 - Object Detction
-  - [ ] ss
+  - [ ] 空白
   
 - segment 语义分割
-  - [ ] MobileNet
+  
   - [ ] Unet
 
 
